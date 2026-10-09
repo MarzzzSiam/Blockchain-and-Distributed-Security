@@ -1,0 +1,5 @@
+# No third-party packages are required.
+# Python standard library only.
+#
+# Python 3.9+ is recommended.
+# Tkinter is included with standard Python installations on most desktop systems.
