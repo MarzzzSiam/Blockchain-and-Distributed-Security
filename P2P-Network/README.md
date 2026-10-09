@@ -438,9 +438,12 @@ Computer A
 Computer B
 ```
 
-![LAN Peer Connected](screenshots/03-LAN-peer-connected.png)
+### Preview: Computer A
 
-![LAN Peer Communication](screenshots/05-LAN-peer-comm.png)
+![LAN Peer Communication Comp A](screenshots/03-comp-a-LAN-peer-comm.png)
+
+### Preview: Computer B
+![LAN Peer Communication Comp B](screenshots/05-comp-b-LAN-peer-comm.png)
 
 ---
 
